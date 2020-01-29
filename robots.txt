@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cohteyaera.prevayler.org/sitemap.xml
